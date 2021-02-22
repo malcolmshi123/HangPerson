@@ -1,4 +1,4 @@
-# Name: Malcolm
+# Names: Malcolm and Nicholas
 # Date: April 2, 2019
 # Title: HangPerson
 # Description:
