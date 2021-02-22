@@ -1,6 +1,5 @@
-# Names: Malcolm and Nicholas
-# Date: April 20, 2018
-# Course: ICS2O1
+# Name: Malcolm
+# Date: April 2, 2019
 # Title: HangPerson
 # Description:
 # Create a hangman style game with three game modes:
